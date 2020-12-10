@@ -1,5 +1,0 @@
-source leaprc.DNA.bsc1
-source leaprc.water.tip3p
-dna1= loadpdb dna_r.pdb
-saveamberparm dna1 dna_r.prmtop dna_r.inpcrd
-quit
