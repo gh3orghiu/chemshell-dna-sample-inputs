@@ -1,8 +1,9 @@
 #!/bin/bash
-# This script takes in a PDB snapshot saved using VMD.
+## This script takes in a PDB snapshot saved using VMD and creates a suitable open-boundary structure for ChemShell.
+# Ensure you have the /scripts/ folder in your PATH
 # The PDB snapshot may come from a MD trajectory containing DNA, solvent and counter-ions
 
-# Copy this script to folder with the snapshot and run, using the snapshots filename as first argument
+# This this script in a folder containing the pdb file, using the filename (without the .pdb suffix) as first argument
 
 # Make sure argument is given
 if [[ $# -eq 0 ]] ; then
@@ -41,6 +42,6 @@ amb2pdb.sh dna_r
 
 ## It is sensible to fix most atoms in place, and only allow some to move during optimisation
 # Use the selec_resid_3.tcl script to to create a list of all residues within 15 Angstroms of residue 3 from dna_r.pdb
-vmd -dispdev text dna_r.pdb < ../scripts/selec_resid_3.tcl
+vmd -dispdev text dna_r.pdb < selec_resid_3.tcl
 # The list of atoms free to move are saved as 'active_3.mol' in a format readable by ChemShell
 
