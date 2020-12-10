@@ -2,6 +2,7 @@
 
 This folder contains all the relevent files needed to the rate coefficients of proton transfer in a DNA base pair using ChemShell.</br>
 It may be advisable to add add the scripts directory to PATH using .bashrc so you do not need to copy each script into indivdual folders befor executing them.</br>
+More information detailing how to use the scripts is given in the folder README.</br>
 
 The following files are available:</br>
 \- Input ChemShell input files '\*.chm'</br>
