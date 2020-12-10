@@ -11,13 +11,13 @@ ii) In the presence of an external electric field 'field', in this case one exte
 
 
 ## Requirements
-Tcl-ChemShell 3.7 coupled to NWChem 6.6 (this exact combination
-NAMD 2.12 or above
-Ambertools
-anaconda
-Python 3.X (numpy, pandas, parmed)
-VMD 1.9 or above
-gnuplot
+Tcl-ChemShell 3.7 coupled to NWChem 6.6 (this exact combination)</p>
+NAMD 2.12 or above</p>
+Ambertools</p>
+anaconda</p>
+Python 3.X (numpy, pandas, parmed)</p>
+VMD 1.9 or above</p>
+gnuplot</p>
 
 
 
