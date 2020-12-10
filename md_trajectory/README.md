@@ -1,9 +1,7 @@
 # Molecular Dynamics section
 
-Using the DNA dodecamer '1BNA' from the Protein Databank saved in build.
+All scripts required to prepare MD simulations using NAMD are given in 'build'
 
-Use tleap to solvate the DNA 'leap.in'
+Example equilibration and simulation NAMD input files are given in 'mineq\_confs'
 
-Run full\_box.sh to determine simulation cell size for NAMD inputs. 
-
-
+Example of the NAMD outputs are given in 'replicas'

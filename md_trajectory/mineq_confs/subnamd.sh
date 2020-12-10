@@ -25,7 +25,7 @@
 # a necessary step with the upgraded software stack as compute nodes cannot
 # write to $HOME.
 # Replace "<your_UCL_id>" with your UCL user ID :
-#$ -wd /home/uccaagh/Scratch/namd/1bna/replicas/rep1/inputs 
+#$ -wd 1bna/replicas/rep_101/inputs 
 
 module load fftw/2.1.5/intel-2015-update2
 module load namd/2.12/intel-2018-update3 
@@ -33,10 +33,13 @@ module load namd/2.12/intel-2018-update3
 inp1=eq0
 inp2=eq1
 inp3=eq2
+inp4=sim1
 # 8. Run our MPI job.  GERun is a wrapper that launches MPI jobs on our clusters.
-#gerun namd2 $inp1.conf_full > $inp1.log
-#gerun namd2 $inp2.conf_full > $inp2.log
-gerun namd2 $inp3.conf_full > $inp3.log
+gerun namd2 $inp1.conf > $inp1.log
+gerun namd2 $inp2.conf > $inp2.log
+gerun namd2 $inp3.conf > $inp3.log
+gerun namd2 $inp4.conf > $inp3.log
+
 
 
 
