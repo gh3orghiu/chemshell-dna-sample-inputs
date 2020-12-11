@@ -5,7 +5,7 @@
 
 set init_c sodium.c
 set inpd ../../../../build/sodium_pos_x_9_negx_00.inpcrd
-set pmtp ../../../../build/sodium_pos_x_9_00.prmtop 
+set pmtp ../../../../build/sodium_pos_x_9_00.prmtop
 
 # Load in the AMBER ff (make sure they are not periodic)
 load_amber_coords inpcrd=$inpd prmtop=$pmtp coords=$init_c
