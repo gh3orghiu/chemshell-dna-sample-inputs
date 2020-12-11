@@ -1,0 +1,44 @@
+### Built using Alex input generator 2020-12-11
+# QM.MM simulation (hybrid) with electrostaic embedding - Energy Calculation
+
+# Set variables
+
+set init_c sodium.c
+set inpd ../../../../build/sodium_pos_x_9_posz_18.inpcrd
+set pmtp ../../../../build/sodium_pos_x_9_00.prmtop 
+
+# Load in the AMBER ff (make sure they are not periodic)
+load_amber_coords inpcrd=$inpd prmtop=$pmtp coords=$init_c
+
+# Calculate MM energy to return list_amber_atom_charges
+energy energy=e coords=$init_c theory=dl_poly  : [ list \
+        amber_prmtop_file=$pmtp \
+        scale14 = [ list [ expr 1 / 1.2 ] 0.5  ] \
+        save_dl_poly_files = yes \
+        list_option=none ]
+
+set atom_charges [ list_amber_atom_charges ]
+
+# Set QM atoms
+## VMD starts from 0, chemsh starts from 1 ##
+set qm_atoms { 1 }
+set qm_atoms [ expand_range $qm_atoms ]
+
+# Set args for the hybrid theory
+set args [ list coupling=shift \
+        atom_charges= $atom_charges \
+        qm_region= $qm_atoms \
+        list_option=full \
+        mm_theory=dl_poly :  [ list \
+        amber_prmtop_file=$pmtp \
+        scale14 = [ list [ expr 1 / 1.2 ] 0.5  ] \
+        conn= $init_c \
+        save_dl_poly_files = yes \
+        list_option=none ] \
+        qm_theory=nwchem :  [ list hamiltonian=b3lyp \
+        basis= 6-31+g* charge=1 ] ]
+
+# Build a matrix e to update with energy
+matrix e
+eandg energy=e coords=$init_c gradient=g.gradient theory= hybrid : [ list $args ] list_option=full
+delete_object e
