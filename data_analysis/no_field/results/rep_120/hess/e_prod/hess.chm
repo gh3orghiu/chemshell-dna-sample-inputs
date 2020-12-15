@@ -1,0 +1,50 @@
+## Built using Alex input generator 2019-8-25
+# QM.MM simulation (hybrid) with electrostaic embedding - Prod Hessian Calculation
+
+# Set variables
+set inpd     	../../../../build/rep25/product/dna_p_re.inpcrd
+set pmtp        ../../../../build/rep25/product/dna_p_re.prmtop
+set c       	coords.c
+
+# Load in the AMBER ff (make sure it is not periodic)
+load_amber_coords inpcrd=$inpd prmtop=$pmtp coords=$c
+
+# Calculate MM energy to return list_amber_atom_charges
+energy energy=e coords=$c theory=dl_poly  : [ list \
+                                            amber_prmtop_file=$pmtp \
+                                            save_dl_poly_files = yes \
+                                            list_option=none ]
+
+set atom_charges [ list_amber_atom_charges ]
+
+## QM/MM opt next
+# Set QM atoms  (VMD starts from 0, chemsh starts from 1)
+set qm_atoms { 74-85 674-688 }
+set qm_atoms [ expand_range $qm_atoms ]
+
+
+# Set args for QM/MM optimisation
+set args [ list coupling=shift \
+        atom_charges= $atom_charges \
+        qm_region= $qm_atoms \
+        list_option=full \
+        mm_theory=dl_poly :  [ list \
+                amber_prmtop_file=$pmtp \
+                scale14 = [ list [ expr 1 / 1.2 ] 0.5  ] \
+                conn= $c \
+                save_dl_poly_files = yes \
+                list_option=none ] \
+        qm_theory=nwchem :  [ list hamiltonian= "b3lyp \n  xdm a1 0.6224 a2 1.7068" \
+        basis= aug-cc-pvdz charge=0 ] ]
+
+matrix dl-find.energy new volatile
+
+# Run dat QM/MM Hessian, frequencies, and thermal corrections, calc / QM restrained
+dl-find theory= hybrid : $args thermal = true \
+	list_option=full \
+	initial_hessian=twopoint \
+	coords=$c \
+	dump=1 \
+	active_atoms= { 74-85 674-688 }
+
+delete_object dl-find.energy

@@ -1,0 +1,307 @@
+Testing convergence  in cycle    1
+  Max grad  6.0192E-02 Target: 4.5000E-03 converged?   no component 29788
+  RMS grad  1.1182E-03 Target: 3.0000E-03 converged?  yes
+Testing convergence  in cycle    2
+    Energy  3.4774E-04 Target: 1.0000E-05 converged?   no
+  Max step  3.1138E-03 Target: 1.8000E-02 converged?  yes component 29788
+  RMS step  5.7844E-05 Target: 1.2000E-02 converged?  yes
+  Max grad  5.8768E-02 Target: 4.5000E-03 converged?   no component 29788
+  RMS grad  1.0925E-03 Target: 3.0000E-03 converged?  yes
+Testing convergence  in cycle    3
+    Energy  1.2390E-02 Target: 1.0000E-05 converged?   no
+  Max step  1.9671E-01 Target: 1.8000E-02 converged?   no component 34570
+  RMS step  3.8066E-03 Target: 1.2000E-02 converged?  yes
+  Max grad  7.0485E-02 Target: 4.5000E-03 converged?   no component 28930
+  RMS grad  9.6303E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence  in cycle    4
+    Energy  2.0122E-03 Target: 1.0000E-05 converged?   no
+  Max step  6.9734E-02 Target: 1.8000E-02 converged?   no component 20224
+  RMS step  9.6129E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  2.3822E-02 Target: 4.5000E-03 converged?   no component 67189
+  RMS grad  5.6386E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence  in cycle    5
+    Energy  3.0361E-03 Target: 1.0000E-05 converged?   no
+  Max step  5.4095E-02 Target: 1.8000E-02 converged?   no component 67189
+  RMS step  9.4356E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  2.0795E-02 Target: 4.5000E-03 converged?   no component 67189
+  RMS grad  4.1090E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence  in cycle    6
+    Energy  2.9107E-03 Target: 1.0000E-05 converged?   no
+  Max step  1.7057E-01 Target: 1.8000E-02 converged?   no component 67189
+  RMS step  2.6790E-03 Target: 1.2000E-02 converged?  yes
+  Max grad  2.0420E-02 Target: 4.5000E-03 converged?   no component 62401
+  RMS grad  4.2931E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence  in cycle    7
+    Energy  1.2727E-03 Target: 1.0000E-05 converged?   no
+  Max step  8.2047E-02 Target: 1.8000E-02 converged?   no component 39352
+  RMS step  1.4700E-03 Target: 1.2000E-02 converged?  yes
+  Max grad  2.6079E-02 Target: 4.5000E-03 converged?   no component 52841
+  RMS grad  6.9492E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence  in cycle    8
+    Energy  1.2984E-03 Target: 1.0000E-05 converged?   no
+  Max step  1.5018E-02 Target: 1.8000E-02 converged?  yes component 62411
+  RMS step  4.1893E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  9.3785E-03 Target: 4.5000E-03 converged?   no component 62404
+  RMS grad  2.2995E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle    9
+    Energy  5.9742E-04 Target: 1.0000E-05 converged?   no
+  Max step  0.0000E+00 Target: 1.8000E-02 converged?  yes component     1
+  RMS step  0.0000E+00 Target: 1.2000E-02 converged?  yes
+  Max grad  5.2610E-03 Target: 4.5000E-03 converged?   no component   224
+  RMS grad  2.4224E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   10
+    Energy  9.7193E-05 Target: 1.0000E-05 converged?   no
+  Max step  2.0188E-03 Target: 1.8000E-02 converged?  yes component   224
+  RMS step  9.2326E-05 Target: 1.2000E-02 converged?  yes
+  Max grad  4.6087E-03 Target: 4.5000E-03 converged?   no component   232
+  RMS grad  2.1270E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   11
+    Energy  1.4383E-04 Target: 1.0000E-05 converged?   no
+  Max step  3.5773E-03 Target: 1.8000E-02 converged?  yes component   224
+  RMS step  1.6738E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  4.2259E-03 Target: 4.5000E-03 converged?  yes component   232
+  RMS grad  1.7888E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   12
+    Energy  1.5712E-04 Target: 1.0000E-05 converged?   no
+  Max step  5.0668E-03 Target: 1.8000E-02 converged?  yes component   232
+  RMS step  2.3041E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  3.7640E-03 Target: 4.5000E-03 converged?  yes component   232
+  RMS grad  1.5418E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   13
+    Energy  1.4919E-04 Target: 1.0000E-05 converged?   no
+  Max step  6.5023E-03 Target: 1.8000E-02 converged?  yes component   232
+  RMS step  2.7994E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  3.2722E-03 Target: 4.5000E-03 converged?  yes component   232
+  RMS grad  1.3738E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   14
+    Energy  1.7805E-04 Target: 1.0000E-05 converged?   no
+  Max step  1.4152E-02 Target: 1.8000E-02 converged?  yes component   232
+  RMS step  5.9153E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  3.9403E-03 Target: 4.5000E-03 converged?  yes component   229
+  RMS grad  1.5340E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   15
+    Energy  1.3948E-04 Target: 1.0000E-05 converged?   no
+  Max step  7.2250E-03 Target: 1.8000E-02 converged?  yes component   229
+  RMS step  2.8922E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  2.3743E-03 Target: 4.5000E-03 converged?  yes component   232
+  RMS grad  1.0884E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   16
+    Energy  1.5401E-04 Target: 1.0000E-05 converged?   no
+  Max step  9.3100E-03 Target: 1.8000E-02 converged?  yes component   232
+  RMS step  4.4897E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  2.9941E-03 Target: 4.5000E-03 converged?  yes component   238
+  RMS grad  1.2602E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   17
+    Energy  3.3407E-04 Target: 1.0000E-05 converged?   no
+  Max step  2.9969E-02 Target: 1.8000E-02 converged?   no component   232
+  RMS step  1.4115E-03 Target: 1.2000E-02 converged?  yes
+  Max grad  7.3067E-03 Target: 4.5000E-03 converged?   no component   235
+  RMS grad  2.3533E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   18
+    Energy  3.2253E-04 Target: 1.0000E-05 converged?   no
+  Max step  4.4207E-02 Target: 1.8000E-02 converged?   no component   232
+  RMS step  2.0385E-03 Target: 1.2000E-02 converged?  yes
+  Max grad  7.7959E-03 Target: 4.5000E-03 converged?   no component   238
+  RMS grad  3.0605E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   19
+    Energy  2.8908E-04 Target: 1.0000E-05 converged?   no
+  Max step  1.3240E-02 Target: 1.8000E-02 converged?  yes component   232
+  RMS step  6.8666E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  5.1809E-03 Target: 4.5000E-03 converged?   no component   238
+  RMS grad  1.5516E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   20
+    Energy  1.6201E-04 Target: 1.0000E-05 converged?   no
+  Max step  9.6897E-03 Target: 1.8000E-02 converged?  yes component   232
+  RMS step  6.3011E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  3.8210E-03 Target: 4.5000E-03 converged?  yes component   241
+  RMS grad  1.0916E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   21
+    Energy  8.6007E-05 Target: 1.0000E-05 converged?   no
+  Max step  8.7557E-03 Target: 1.8000E-02 converged?  yes component   241
+  RMS step  5.7214E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  2.8053E-03 Target: 4.5000E-03 converged?  yes component   241
+  RMS grad  1.1172E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   22
+    Energy  5.8934E-05 Target: 1.0000E-05 converged?   no
+  Max step  2.4735E-02 Target: 1.8000E-02 converged?   no component   241
+  RMS step  1.3527E-03 Target: 1.2000E-02 converged?  yes
+  Max grad  2.9102E-03 Target: 4.5000E-03 converged?  yes component   326
+  RMS grad  2.1521E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   23
+    Energy  1.0989E-04 Target: 1.0000E-05 converged?   no
+  Max step  8.0176E-03 Target: 1.8000E-02 converged?  yes component   241
+  RMS step  3.4841E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  2.0501E-03 Target: 4.5000E-03 converged?  yes component   232
+  RMS grad  1.0299E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   24
+    Energy  6.4671E-05 Target: 1.0000E-05 converged?   no
+  Max step  5.8193E-03 Target: 1.8000E-02 converged?  yes component   241
+  RMS step  2.9863E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  2.2387E-03 Target: 4.5000E-03 converged?  yes component   241
+  RMS grad  9.9553E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   25
+    Energy  1.1429E-04 Target: 1.0000E-05 converged?   no
+  Max step  1.2984E-02 Target: 1.8000E-02 converged?  yes component  1099
+  RMS step  7.6956E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  2.6880E-03 Target: 4.5000E-03 converged?  yes component   241
+  RMS grad  1.0377E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   26
+    Energy  1.0138E-04 Target: 1.0000E-05 converged?   no
+  Max step  1.7885E-02 Target: 1.8000E-02 converged?  yes component  1099
+  RMS step  1.3198E-03 Target: 1.2000E-02 converged?  yes
+  Max grad  3.7441E-03 Target: 4.5000E-03 converged?  yes component  1091
+  RMS grad  2.0742E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   27
+    Energy  1.1459E-04 Target: 1.0000E-05 converged?   no
+  Max step  9.1372E-03 Target: 1.8000E-02 converged?  yes component   265
+  RMS step  7.0778E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  1.7386E-03 Target: 4.5000E-03 converged?  yes component   242
+  RMS grad  7.4856E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   28
+    Energy  2.9687E-05 Target: 1.0000E-05 converged?   no
+  Max step  3.5637E-03 Target: 1.8000E-02 converged?  yes component   241
+  RMS step  1.6719E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  1.6158E-03 Target: 4.5000E-03 converged?  yes component   242
+  RMS grad  6.2028E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   29
+    Energy  6.4328E-05 Target: 1.0000E-05 converged?   no
+  Max step  1.0173E-02 Target: 1.8000E-02 converged?  yes component   242
+  RMS step  6.4146E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  1.9528E-03 Target: 4.5000E-03 converged?  yes component   238
+  RMS grad  9.3071E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   30
+    Energy  5.3798E-05 Target: 1.0000E-05 converged?   no
+  Max step  1.4916E-02 Target: 1.8000E-02 converged?  yes component   242
+  RMS step  1.0004E-03 Target: 1.2000E-02 converged?  yes
+  Max grad  2.9804E-03 Target: 4.5000E-03 converged?  yes component  1091
+  RMS grad  1.5093E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   31
+    Energy  5.4238E-05 Target: 1.0000E-05 converged?   no
+  Max step  9.9666E-03 Target: 1.8000E-02 converged?  yes component   242
+  RMS step  6.1925E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  1.6828E-03 Target: 4.5000E-03 converged?  yes component  1094
+  RMS grad  8.0460E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   32
+    Energy  3.1743E-05 Target: 1.0000E-05 converged?   no
+  Max step  6.5048E-03 Target: 1.8000E-02 converged?  yes component   268
+  RMS step  4.6836E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  1.2998E-03 Target: 4.5000E-03 converged?  yes component  1093
+  RMS grad  4.6592E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   33
+    Energy  1.4342E-05 Target: 1.0000E-05 converged?   no
+  Max step  3.8611E-03 Target: 1.8000E-02 converged?  yes component   268
+  RMS step  2.7258E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  9.6475E-04 Target: 4.5000E-03 converged?  yes component   238
+  RMS grad  5.2350E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   34
+    Energy  2.1119E-05 Target: 1.0000E-05 converged?   no
+  Max step  6.3344E-03 Target: 1.8000E-02 converged?  yes component   268
+  RMS step  4.6423E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  1.4229E-03 Target: 4.5000E-03 converged?  yes component   238
+  RMS grad  6.2225E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   35
+    Energy  2.2177E-05 Target: 1.0000E-05 converged?   no
+  Max step  9.6400E-03 Target: 1.8000E-02 converged?  yes component  1099
+  RMS step  6.4302E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  1.8259E-03 Target: 4.5000E-03 converged?  yes component   236
+  RMS grad  8.0440E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   36
+    Energy  2.5975E-05 Target: 1.0000E-05 converged?   no
+  Max step  5.6055E-03 Target: 1.8000E-02 converged?  yes component  1099
+  RMS step  3.6738E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  1.0034E-03 Target: 4.5000E-03 converged?  yes component   235
+  RMS grad  4.9267E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   37
+    Energy  1.5299E-05 Target: 1.0000E-05 converged?   no
+  Max step  1.7919E-03 Target: 1.8000E-02 converged?  yes component   242
+  RMS step  1.1817E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  6.5266E-04 Target: 4.5000E-03 converged?  yes component  1100
+  RMS grad  3.7525E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   38
+    Energy  1.5864E-05 Target: 1.0000E-05 converged?   no
+  Max step  2.5421E-03 Target: 1.8000E-02 converged?  yes component   242
+  RMS step  2.0990E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  1.0008E-03 Target: 4.5000E-03 converged?  yes component   238
+  RMS grad  4.4891E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   39
+    Energy  2.0343E-05 Target: 1.0000E-05 converged?   no
+  Max step  5.3524E-03 Target: 1.8000E-02 converged?  yes component  4536
+  RMS step  4.6838E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  1.2171E-03 Target: 4.5000E-03 converged?  yes component   251
+  RMS grad  6.9901E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   40
+    Energy  2.4166E-05 Target: 1.0000E-05 converged?   no
+  Max step  6.0759E-03 Target: 1.8000E-02 converged?  yes component  4536
+  RMS step  5.1605E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  9.7613E-04 Target: 4.5000E-03 converged?  yes component   245
+  RMS grad  5.3458E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   41
+    Energy  3.0511E-05 Target: 1.0000E-05 converged?   no
+  Max step  9.8562E-03 Target: 1.8000E-02 converged?  yes component  4536
+  RMS step  8.3016E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  9.2294E-04 Target: 4.5000E-03 converged?  yes component   241
+  RMS grad  5.2414E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   42
+    Energy  1.6009E-05 Target: 1.0000E-05 converged?   no
+  Max step  8.9924E-03 Target: 1.8000E-02 converged?  yes component  4536
+  RMS step  7.5499E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  1.2763E-03 Target: 4.5000E-03 converged?  yes component   236
+  RMS grad  7.3573E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   43
+    Energy  2.4425E-05 Target: 1.0000E-05 converged?   no
+  Max step  2.2237E-03 Target: 1.8000E-02 converged?  yes component  4536
+  RMS step  2.1021E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  7.3986E-04 Target: 4.5000E-03 converged?  yes component  1100
+  RMS grad  4.2023E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   44
+    Energy  1.2667E-05 Target: 1.0000E-05 converged?   no
+  Max step  4.2193E-03 Target: 1.8000E-02 converged?  yes component   241
+  RMS step  2.4368E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  7.7532E-04 Target: 4.5000E-03 converged?  yes component   235
+  RMS grad  3.7655E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   45
+    Energy  1.1224E-05 Target: 1.0000E-05 converged?   no
+  Max step  3.2497E-03 Target: 1.8000E-02 converged?  yes component  1099
+  RMS step  2.5771E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  7.5562E-04 Target: 4.5000E-03 converged?  yes component   235
+  RMS grad  4.1609E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   46
+    Energy  1.9214E-05 Target: 1.0000E-05 converged?   no
+  Max step  7.9789E-03 Target: 1.8000E-02 converged?  yes component   269
+  RMS step  7.3105E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  9.1040E-04 Target: 4.5000E-03 converged?  yes component   236
+  RMS grad  6.2012E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   47
+    Energy  1.3058E-05 Target: 1.0000E-05 converged?   no
+  Max step  4.1887E-03 Target: 1.8000E-02 converged?  yes component  4536
+  RMS step  3.6751E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  5.7595E-04 Target: 4.5000E-03 converged?  yes component   227
+  RMS grad  4.1312E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   47
+    Energy  1.3058E-05 Target: 1.0000E-05 converged?   no
+  Max step  4.1887E-03 Target: 1.8000E-02 converged?  yes component  4536
+  RMS step  3.6751E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  5.7595E-04 Target: 4.5000E-03 converged?  yes component   227
+  RMS grad  4.1312E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   48
+    Energy  2.2368E-04 Target: 1.0000E-05 converged?   no
+  Max step  4.0107E-03 Target: 1.8000E-02 converged?  yes component   227
+  RMS step  2.8922E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  3.8019E-03 Target: 4.5000E-03 converged?  yes component  1306
+  RMS grad  2.7347E-04 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   49
+    Energy  1.1196E-04 Target: 1.0000E-05 converged?   no
+  Max step  3.0197E-03 Target: 1.8000E-02 converged?  yes component  1118
+  RMS step  2.1781E-04 Target: 1.2000E-02 converged?  yes
+  Max grad  4.2066E-04 Target: 4.5000E-03 converged?  yes component   227
+  RMS grad  2.9935E-05 Target: 3.0000E-03 converged?  yes
+Testing convergence of NEB climbing image in cycle   50
+    Energy  4.4822E-06 Target: 1.0000E-05 converged?  yes
+  Max step  5.1050E-04 Target: 1.8000E-02 converged?  yes component   227
+  RMS step  2.6457E-05 Target: 1.2000E-02 converged?  yes
+  Max grad  3.7089E-04 Target: 4.5000E-03 converged?  yes component   227
+  RMS grad  2.4510E-05 Target: 3.0000E-03 converged?  yes
+ Optimisation converged
+ Final converged energy:    -979.743051311225
+Time to completion / hours
+12

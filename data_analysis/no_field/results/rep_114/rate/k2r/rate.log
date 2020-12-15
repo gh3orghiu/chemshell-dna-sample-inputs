@@ -1,0 +1,62 @@
+Initialising Tcl ChemShell 3.7.0 on linux
+load_amber_coords/=============================== Tstep:    0.2 Ttot:    0.2 ==
+...load_amber_coords/============================ Tstep:    1.2 Ttot:    1.4 ==
+...load_amber_coords/dl-find/==================== Tstep:    1.2 Ttot:    2.5 ==
+...dl-find/copy_object/========================== Tstep:    0.0 Ttot:    2.5 ==
+...dl-find/get_number_of_atoms/================== Tstep:    0.0 Ttot:    2.6 ==
+...dl-find/set_matrix_size/====================== Tstep:    0.0 Ttot:    2.6 ==
+...dl-find/set_matrix_size/====================== Tstep:    0.0 Ttot:    2.6 ==
+...dl-find/none.init/============================ Tstep:    0.0 Ttot:    2.6 ==
+...get_number_of_atoms/========================== Tstep:    0.0 Ttot:    2.6 ==
+...get_number_of_shells/========================= Tstep:    0.0 Ttot:    2.6 ==
+
+***********************************************************************
+**                                                                   **
+**                       ---------------------                       **
+**                              DL-FIND                              **
+**                       Geometry Optimisation                       **
+**                       ---------------------                       **
+**                                                                   **
+**                 J. Kaestner, J.M. Carr, T.W. Keal,                **
+**                W. Thiel, A. Wander and P. Sherwood                **
+**                                                                   **
+**              J. Phys. Chem. A, 2009, 113 (43), 11856.             **
+**                                                                   **
+**   Please include this reference in published work using DL-FIND.  **
+**                                                                   **
+**               Copyright:  STFC Daresbury Laboratory               **
+**                           Revision: exported                      **
+**                                                                   **
+***********************************************************************
+
+ Calculating the reaction rate based on harmonic transition state theory
+ Number of zero modes in RS and TS:    0    0
+                     Reactant        TS
+ Number of atoms         9280      9280
+ Degrees of freedom        81        81
+                                      Hartree           kJ/mol            eV                K
+Potential energy Barrier             0.00197185        5.17709007        0.05365675      622.66007768
+ZPE Correction                      -0.00419552      -11.01532560       -0.11416580    -1324.83758089
+Vibrational adiabatic barrier       -0.00222367       -5.83823552       -0.06050904     -702.17750320
+Rotational contr. at start T         0.00000000        0.00000000        0.00000000        0.00000000
+Crossover Temperature              196.91056852 K
+ log_10 of rates in second^-1
+Change of log(rate) by the rotational partition function        0.00000000
+       1000/T           rate classical       quantised vib.      simpl. Wigner       Eckart
+      3.333333333333     12.915168190437     14.023085712320     14.255743902324                 NaN
+ 
+ #       1000/T           full wigner
+      3.333333333333     14.392040044972
+
+Timing report
+=============
+Module                                      CPU time            Wall clock time
+Total .................................     0.032 (100.00%)     0.408 (100.00%) seconds
+Energy and Gradient ...................     0.000 (  0.00%)     0.000 (  0.00%) seconds
+Step direction ........................     0.000 (  0.00%)     0.000 (  0.00%) seconds
+Coordinate transformation .............     0.000 (  0.00%)     0.000 (  0.00%) seconds
+Checkpoint file I/O ...................     0.000 (  0.00%)     0.000 (  0.00%) seconds
+XYZ-file I/O ..........................     0.000 (  0.00%)     0.000 (  0.00%) seconds
+exit 0
+ChemShell exiting code 0
+Application 38615582 resources: utime ~3s, stime ~0s, Rss ~67832, inblocks ~60777, outblocks ~161113

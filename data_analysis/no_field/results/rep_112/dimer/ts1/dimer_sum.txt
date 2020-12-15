@@ -1,0 +1,153 @@
+Testing convergence of dimer midpoint in cycle    1
+  Max grad  4.5896E-03 Target: 4.5000E-04 converged?   no component    19
+  RMS grad  1.3085E-03 Target: 3.0000E-04 converged?   no
+Dimer rotation not converged after   10 steps
+Testing convergence of dimer midpoint in cycle    2
+    Energy  9.5283E-05 Target: 1.0000E-06 converged?   no
+  Max step  8.2173E-03 Target: 1.8000E-03 converged?   no component    61
+  RMS step  2.2222E-03 Target: 1.2000E-03 converged?   no
+  Max grad  3.6932E-03 Target: 4.5000E-04 converged?   no component    22
+  RMS grad  9.6669E-04 Target: 3.0000E-04 converged?   no
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle    3
+    Energy  5.4692E-05 Target: 1.0000E-06 converged?   no
+  Max step  1.5930E-02 Target: 1.8000E-03 converged?   no component    61
+  RMS step  3.2436E-03 Target: 1.2000E-03 converged?   no
+  Max grad  3.3065E-03 Target: 4.5000E-04 converged?   no component    22
+  RMS grad  9.8182E-04 Target: 3.0000E-04 converged?   no
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle    4
+    Energy  2.8391E-05 Target: 1.0000E-06 converged?   no
+  Max step  3.9919E-02 Target: 1.8000E-03 converged?   no component    61
+  RMS step  7.4848E-03 Target: 1.2000E-03 converged?   no
+  Max grad  4.1080E-03 Target: 4.5000E-04 converged?   no component    19
+  RMS grad  1.4826E-03 Target: 3.0000E-04 converged?   no
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle    5
+    Energy  5.8404E-05 Target: 1.0000E-06 converged?   no
+  Max step  3.0637E-02 Target: 1.8000E-03 converged?   no component    61
+  RMS step  5.7526E-03 Target: 1.2000E-03 converged?   no
+  Max grad  3.8042E-03 Target: 4.5000E-04 converged?   no component    32
+  RMS grad  1.1748E-03 Target: 3.0000E-04 converged?   no
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle    6
+    Energy  6.1901E-05 Target: 1.0000E-06 converged?   no
+  Max step  5.0405E-03 Target: 1.8000E-03 converged?   no component    61
+  RMS step  1.4735E-03 Target: 1.2000E-03 converged?   no
+  Max grad  2.4602E-03 Target: 4.5000E-04 converged?   no component    22
+  RMS grad  5.9525E-04 Target: 3.0000E-04 converged?   no
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle    7
+    Energy  3.1447E-05 Target: 1.0000E-06 converged?   no
+  Max step  5.4451E-03 Target: 1.8000E-03 converged?   no component    25
+  RMS step  1.6927E-03 Target: 1.2000E-03 converged?   no
+  Max grad  1.8738E-03 Target: 4.5000E-04 converged?   no component    22
+  RMS grad  4.3738E-04 Target: 3.0000E-04 converged?   no
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle    8
+    Energy  1.7361E-05 Target: 1.0000E-06 converged?   no
+  Max step  9.6385E-03 Target: 1.8000E-03 converged?   no component    61
+  RMS step  2.1780E-03 Target: 1.2000E-03 converged?   no
+  Max grad  1.7007E-03 Target: 4.5000E-04 converged?   no component    32
+  RMS grad  4.5437E-04 Target: 3.0000E-04 converged?   no
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle    9
+    Energy  1.3035E-05 Target: 1.0000E-06 converged?   no
+  Max step  1.5713E-02 Target: 1.8000E-03 converged?   no component    61
+  RMS step  3.4364E-03 Target: 1.2000E-03 converged?   no
+  Max grad  1.7724E-03 Target: 4.5000E-04 converged?   no component     2
+  RMS grad  5.2665E-04 Target: 3.0000E-04 converged?   no
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   10
+    Energy  1.3127E-05 Target: 1.0000E-06 converged?   no
+  Max step  3.7640E-03 Target: 1.8000E-03 converged?   no component    61
+  RMS step  1.0387E-03 Target: 1.2000E-03 converged?  yes
+  Max grad  8.0507E-04 Target: 4.5000E-04 converged?   no component    13
+  RMS grad  2.7796E-04 Target: 3.0000E-04 converged?  yes
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   11
+    Energy  1.2183E-05 Target: 1.0000E-06 converged?   no
+  Max step  3.2775E-03 Target: 1.8000E-03 converged?   no component    61
+  RMS step  1.0300E-03 Target: 1.2000E-03 converged?  yes
+  Max grad  8.6091E-04 Target: 4.5000E-04 converged?   no component    16
+  RMS grad  2.5295E-04 Target: 3.0000E-04 converged?  yes
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   12
+    Energy  7.1242E-06 Target: 1.0000E-06 converged?   no
+  Max step  3.7495E-03 Target: 1.8000E-03 converged?   no component    55
+  RMS step  1.5321E-03 Target: 1.2000E-03 converged?   no
+  Max grad  8.4256E-04 Target: 4.5000E-04 converged?   no component     4
+  RMS grad  2.8858E-04 Target: 3.0000E-04 converged?  yes
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   13
+    Energy  4.9619E-06 Target: 1.0000E-06 converged?   no
+  Max step  3.1750E-03 Target: 1.8000E-03 converged?   no component    13
+  RMS step  1.2074E-03 Target: 1.2000E-03 converged?   no
+  Max grad  8.1371E-04 Target: 4.5000E-04 converged?   no component    67
+  RMS grad  3.0250E-04 Target: 3.0000E-04 converged?   no
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   14
+    Energy  3.8133E-06 Target: 1.0000E-06 converged?   no
+  Max step  8.3499E-04 Target: 1.8000E-03 converged?  yes component    13
+  RMS step  3.0872E-04 Target: 1.2000E-03 converged?  yes
+  Max grad  3.2284E-04 Target: 4.5000E-04 converged?  yes component    28
+  RMS grad  1.3969E-04 Target: 3.0000E-04 converged?  yes
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   15
+    Energy  1.7902E-06 Target: 1.0000E-06 converged?   no
+  Max step  9.8069E-04 Target: 1.8000E-03 converged?  yes component     8
+  RMS step  3.8084E-04 Target: 1.2000E-03 converged?  yes
+  Max grad  5.0511E-04 Target: 4.5000E-04 converged?   no component    16
+  RMS grad  1.2593E-04 Target: 3.0000E-04 converged?  yes
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   16
+    Energy  5.5585E-06 Target: 1.0000E-06 converged?   no
+  Max step  2.8133E-03 Target: 1.8000E-03 converged?   no component    69
+  RMS step  1.0360E-03 Target: 1.2000E-03 converged?  yes
+  Max grad  6.8308E-04 Target: 4.5000E-04 converged?   no component    16
+  RMS grad  1.9558E-04 Target: 3.0000E-04 converged?  yes
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   17
+    Energy  5.5109E-06 Target: 1.0000E-06 converged?   no
+  Max step  4.5278E-03 Target: 1.8000E-03 converged?   no component    69
+  RMS step  1.5782E-03 Target: 1.2000E-03 converged?   no
+  Max grad  6.3862E-04 Target: 4.5000E-04 converged?   no component    68
+  RMS grad  2.2087E-04 Target: 3.0000E-04 converged?  yes
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   18
+    Energy  8.0840E-07 Target: 1.0000E-06 converged?  yes
+  Max step  5.8738E-03 Target: 1.8000E-03 converged?   no component    69
+  RMS step  2.0368E-03 Target: 1.2000E-03 converged?   no
+  Max grad  1.5564E-03 Target: 4.5000E-04 converged?   no component    20
+  RMS grad  3.6084E-04 Target: 3.0000E-04 converged?   no
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   19
+    Energy  2.7729E-06 Target: 1.0000E-06 converged?   no
+  Max step  1.2173E-03 Target: 1.8000E-03 converged?  yes component    68
+  RMS step  4.5942E-04 Target: 1.2000E-03 converged?  yes
+  Max grad  2.6168E-04 Target: 4.5000E-04 converged?  yes component     7
+  RMS grad  1.0454E-04 Target: 3.0000E-04 converged?  yes
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   20
+    Energy  2.9031E-06 Target: 1.0000E-06 converged?   no
+  Max step  6.3795E-04 Target: 1.8000E-03 converged?  yes component     7
+  RMS step  2.0347E-04 Target: 1.2000E-03 converged?  yes
+  Max grad  2.4162E-04 Target: 4.5000E-04 converged?  yes component     8
+  RMS grad  8.8617E-05 Target: 3.0000E-04 converged?  yes
+Dimer rotation converged after    1 steps
+Testing convergence of dimer midpoint in cycle   21
+    Energy  2.8715E-07 Target: 1.0000E-06 converged?  yes
+  Max step  1.4606E-03 Target: 1.8000E-03 converged?  yes component    56
+  RMS step  5.6931E-04 Target: 1.2000E-03 converged?  yes
+  Max grad  4.3183E-04 Target: 4.5000E-04 converged?  yes component    67
+  RMS grad  1.3786E-04 Target: 3.0000E-04 converged?  yes
+Testing convergence of dimer midpoint in cycle   21
+    Energy  0.0000E+00 Target: 1.0000E-06 converged?  yes
+  Max step  1.4606E-03 Target: 1.8000E-03 converged?  yes component    56
+  RMS step  5.6931E-04 Target: 1.2000E-03 converged?  yes
+  Max grad  4.3183E-04 Target: 4.5000E-04 converged?  yes component    67
+  RMS grad  1.3786E-04 Target: 3.0000E-04 converged?  yes
+ Optimisation converged
+ Final converged energy:    -981.075910246371
+Time to completion / hours
+2

@@ -1,0 +1,90 @@
+## Built using Alex input generator 2019-4-13
+# QM.MM simulation (hybrid) with electrostaic embedding - Reactant optimisation
+
+# Set variables
+set inpd        ../../../build/rep03/dna_r.inpcrd
+set pmtp        ../../../build/rep03/dna_r.prmtop
+
+set init_c      init.c
+set mm_c        mm_opt.c
+
+set opt_c       dna_r_opt.c
+set final_xyz   dna_r_opt.xyz
+
+source          ../../../build/rep03/active_3.mol
+
+## MM Optimisation first
+# Load in the AMBER ff (make sure they are not periodic)
+load_amber_coords inpcrd=$inpd prmtop=$pmtp coords=$init_c
+
+# Calculate MM energy to return list_amber_atom_charges
+energy energy=e coords=$init_c theory=dl_poly  : [ list \
+        amber_prmtop_file=$pmtp \
+        scale14 = [ list [ expr 1 / 1.2 ] 0.5  ] \
+        save_dl_poly_files = yes \
+        list_option=none ]
+
+set atom_charges [ list_amber_atom_charges ]
+
+# Set args for MM optimisation
+set mm_args [ list amber_prmtop_file=$pmtp \
+        conn= $init_c \
+        scale14 = [ list [ expr 1 / 1.2 ] 0.5  ] \
+        save_dl_poly_files = yes \
+        list_option=none ]
+
+matrix dl-find.energy new volatile
+
+# Run dat MM riddim
+dl-find coords=$init_c \
+        theory= dl_poly: $mm_args \
+        active_atoms= $active \
+        list_option=full \
+        dump = 1 \
+        coordinates=cartesian \
+        optimiser=lbfgs tolerance=0.0003 \
+        maxcycle=100000 maxene=100000 \
+        result=$mm_c
+
+delete_object dl-find.energy
+
+# Back up MM paths
+file rename ./path_active.xyz ./mm_path_active.xyz
+file rename ./path.xyz ./mm_path.xyz
+
+## QM/MM opt next
+# Set QM atoms  (VMD starts from 0, chemsh starts from 1)
+set qm_atoms { 74-85 674-688 }
+set qm_atoms [ expand_range $qm_atoms ]
+
+# Set args for QM/MM optimisation
+set args [ list coupling=shift \
+        atom_charges= $atom_charges \
+        qm_region= $qm_atoms \
+        list_option=full \
+        mm_theory=dl_poly :  [ list \
+        amber_prmtop_file=$pmtp \
+        scale14 = [ list [ expr 1 / 1.2 ] 0.5  ] \
+        conn= $mm_c \
+        save_dl_poly_files = yes \
+        list_option=none ] \
+        qm_theory=nwchem :  [ list hamiltonian= "b3lyp \n  xdm a1 0.6224 a2 1.7068" \
+        basis= aug-cc-pvdz charge=0 ] ]
+
+matrix dl-find.energy new volatile
+
+# Run dat QM/MM riddim. (Add restart= true to restart)
+dl-find coords=$mm_c \
+        theory= hybrid: $args \
+        active_atoms= $active \
+        list_option=full \
+        dump = 1 \
+        coordinates=cartesian \
+        optimiser=lbfgs tolerance=0.0003 \
+        maxcycle=100000 maxene=100000 \
+        result=$opt_c
+
+delete_object dl-find.energy
+
+# Save the qm_mm opt c files
+write_xyz file=$final_xyz coords=$opt_c

@@ -1,0 +1,26 @@
+## Built using Alex input generator 2020-1-16
+# DL-FIND Instanton rate calculation (several steps) 
+#
+set inpd_r      ../../../../build/rep12/int/int_opt_re.inpcrd
+set inpd_ts     ../../../../build/rep12/dimer/ts2/ts2_dimer_re.inpcrd
+
+set pmtp        ../../../../build/rep12/reactant/dna_r_re.prmtop
+
+set rs_c        rs.c
+set ts_c        ts.c
+
+source          ../../../../build/rep12/active_3.mol
+
+## MM Single point first
+# Load in the AMBER ff (make sure they are not periodic)
+load_amber_coords inpcrd=$inpd_r prmtop=$pmtp coords=$rs_c
+load_amber_coords inpcrd=$inpd_ts prmtop=$pmtp coords=$ts_c
+
+# first write the class.in file
+set fp [ open class.in w ]
+puts $fp ""
+puts $fp "0 0"
+puts $fp "300 305 1"
+close $fp
+dl-find coords=$ts_c theory=none rate=true \
+    list_option=full active_atoms= $active nzero=0

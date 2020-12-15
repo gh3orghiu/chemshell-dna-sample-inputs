@@ -1,0 +1,61 @@
+## Built using Alex input generator 2019-7-08
+# QM.MM simulation (hybrid) with electrostaic embedding - TS1 Dimer Opt Calculation
+
+# Set variables
+set ts2_inpd     	../../../../build/rep03/dimer/ts2/ts2_re.inpcrd
+set pmtp         	../../../../build/rep03/dimer/ts2/ts2_re.prmtop
+set ts2_c       	ts2.c
+
+set ts2_dimer_c		ts2_dimer.c
+set ts2_dimer_xyz  	ts2_dimer.xyz
+
+# Load in the AMBER ff (make sure it is not periodic)
+load_amber_coords inpcrd=$ts2_inpd prmtop=$pmtp coords=$ts2_c
+
+# Calculate MM energy to return list_amber_atom_charges
+energy energy=e coords=$ts2_c theory=dl_poly  : [ list \
+                                            amber_prmtop_file=$pmtp \
+                                            save_dl_poly_files = yes \
+					    scale14 = [ list [ expr 1 / 1.2 ] 0.5  ] \
+                                            list_option=none ]
+
+set atom_charges [ list_amber_atom_charges ]
+
+## QM/MM opt next
+# Set QM atoms  (VMD starts from 0, chemsh starts from 1)
+set qm_atoms { 74-85 674-688 }
+set qm_atoms [ expand_range $qm_atoms ]
+
+
+# Set args for QM/MM optimisation
+set args [ list coupling=shift \
+        atom_charges= $atom_charges \
+        qm_region= $qm_atoms \
+        list_option=full \
+        mm_theory=dl_poly :  [ list \
+                amber_prmtop_file=$pmtp \
+                scale14 = [ list [ expr 1 / 1.2 ] 0.5  ] \
+                conn= $ts2_c \
+                save_dl_poly_files = yes \
+                list_option=none ] \
+        qm_theory=nwchem :  [ list hamiltonian= "b3lyp \n  xdm a1 0.6224 a2 1.7068" \
+        basis= aug-cc-pvdz charge=0 ] ]
+
+matrix dl-find.energy new volatile
+
+# Run dat QM/MM Dimer method optimisation / QM restrained
+dl-find coords=$ts2_c \
+    theory= hybrid: $args \
+    active_atoms= { 74-85 674-688 } \
+    list_option= full \
+    coordinates=cartesian \
+    dump = 1 \
+    optimiser=lbfgs tolerance=0.00045 trustradius=const \
+    dimer=true delta=0.01 \
+    maxcycle=10000 maxene=10000 \
+    result=$ts2_dimer_c tsrelative=true \
+    maxstep=0.5
+
+delete_object dl-find.energy
+
+write_xyz coords=$ts2_dimer_c file=$ts2_dimer_xyz
