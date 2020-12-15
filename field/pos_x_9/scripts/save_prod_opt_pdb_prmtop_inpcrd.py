@@ -18,9 +18,11 @@ def pick_include_set(x,include):
     check = [i for i in x if any([e for e in include if e in i])]
     return check
 
+os.chdir('..')
+
 # Creat a list with everything available
-opt_geoms = sorted((glob.glob('rep_103/a_reac/reac_opt.pdb')))
-prmtops   = sorted((glob.glob('rep_103/initial_struc/reac.prmtop')))
+opt_geoms = sorted((glob.glob('rep_101/e_product/prod_opt.pdb')))
+prmtops   = sorted((glob.glob('rep_101/initial_struc/prod.prmtop')))
 
 print(len(opt_geoms), len(prmtops))
 
@@ -30,8 +32,8 @@ for i in np.arange(len(opt_geoms)):
 	inc_list.append(opt_geoms[i][:7])
 
 # Create a list with only opt geoms
-opt_geoms = sorted(pick_include_set(glob.glob('rep_103/a_reac/reac_opt.pdb'), inc_list))
-prmtops   = sorted(pick_include_set(glob.glob('rep_103/initial_struc/reac.prmtop'), inc_list))
+opt_geoms = sorted(glob.glob('rep_101/e_product/prod_opt.pdb'))
+prmtops   = sorted(glob.glob('rep_101/initial_struc/prod.prmtop'))
 
 print(len(opt_geoms), len(prmtops))
 
@@ -44,8 +46,8 @@ for i in np.arange(len(prmtops)):
     rep_string = prmtops[i][:7]
     dna = pmd.load_file(prmtops[i], opt_geoms[i])
     
-    dna.save(f'{rep_string}/optimised_struc/reac_opt.pdb', overwrite=True)
-    dna.save(f'{rep_string}/optimised_struc/reac_opt.prmtop', overwrite=True)
-    dna.save(f'{rep_string}/optimised_struc/reac_opt.inpcrd', overwrite=True)
+    dna.save(f'{rep_string}/optimised_struc/prod_opt.pdb', overwrite=True)
+    dna.save(f'{rep_string}/optimised_struc/prod_opt.prmtop', overwrite=True)
+    dna.save(f'{rep_string}/optimised_struc/prod_opt.inpcrd', overwrite=True)
    
-    print(rep_string)
+    print( 'Saved optimised product files for '+ rep_string)

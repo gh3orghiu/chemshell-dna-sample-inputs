@@ -1,4 +1,8 @@
 import parmed as pmd
+import os
+
+#Change me
+os.chdir('../rep_101/optimised_struc')
 
 dna = pmd.load_file('reac_opt.prmtop', 'reac_opt.inpcrd')
 
@@ -33,4 +37,4 @@ dna.save('../initial_struc/prod.inpcrd', overwrite=True)
 dna.save('../initial_struc/prod.prmtop', overwrite=True)
 dna.save('../initial_struc/prod.pdb', overwrite=True)
 
-
+print('Saved prod{.inpcrd,.prmtop,.pdb} in initial_struc')

@@ -3,6 +3,7 @@
 # This script will convert an .xyz file to .pdb using obabel.
 # Follow up with the respective save_???_pdb_prmtop_inpcrd.py to create the relevant AMBER files
 
+cd ..
 direc=$PWD
 
 if [ -z $1 ];then
@@ -12,7 +13,10 @@ fi
 
 profile=$1
 
-arr=( 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 )
+# Uncomment for more replicas
+#arr=( 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 )
+
+arr=( 101 )
 len=${#arr[@]}
 
 if [ "$profile" = 'reac' ]; then
