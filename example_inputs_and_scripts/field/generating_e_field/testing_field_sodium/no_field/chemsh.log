@@ -1,0 +1,74 @@
+Initialising Tcl ChemShell 3.7.0 on 32 linux nodes
+load_amber_coords/=============================== Tstep:    0.3 Ttot:    0.3 ==
+load_amber_coords/energy/======================== Tstep:    0.1 Ttot:    0.4 ==
+...energy/dl_poly.init/========================== Tstep:    0.0 Ttot:    0.4 ==
+ 
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ChemShell DL_POLY MM Module $Revision: 3711 $
+ 
+    forcefield         : AMBER
+    AMBER prmtop file  : sodium.prmtop
+    connectivity       : taken from input geometry sodium.c
+    pairlist           : yes - cutoffs to be set automatically
+    exact_srf          : 0
+    1-4 scale (elec)   : 1.0
+    1-4 scale (vdw     : 1.0
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+...get_number_of_atoms/========================== Tstep:    0.1 Ttot:    0.5 ==
+Use list-based excluded atom code
+non-bonded cutoff set to 99.990000   delr 0.000000 (Ang)
+ Link cells suppressed - two few cells          27
+ Pairlist estimate           2
+
+
+ Electrostatics : Coulombic potential
+
+
+             **** WARNING - total system charge:      1.0000 ****
+
+ configuration file name: 
+
+          from inpcrd                                                                     
+ warning issued           30
+
+ *** warning - atomistic cutoff with electrostatics ***
+
+
+ DL_POLY terminated due to error   350
+
+
+ error - too few degrees of freedom
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **
+ ** EXITCOMMS **

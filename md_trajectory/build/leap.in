@@ -1,7 +1,0 @@
-source leaprc.DNA.bsc1              
-source leaprc.water.tip3p                 
-dna1= loadpdb 1bna.pdb
-addions dna1 Na+ 0
-solvatebox dna1 TIP3PBOX 20.0                    
-saveamberparm dna1 1bna_solv.prmtop 1bna_solv.inpcrd
-quit
