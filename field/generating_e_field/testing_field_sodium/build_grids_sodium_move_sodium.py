@@ -14,6 +14,8 @@ import glob as glob
 # The strength of the electric field can then be calculated at different
 # positions within the box by using ChemShell to calculate the gradient on the Na+ ion.
 
+os.chdir('build')
+
 # This function places a non-interacting dummy atom at the x,y,z coordinates (a,b,c)
 # The charge on the Dummy atom is given by 'd'
 def build_field(a, b, c, d):

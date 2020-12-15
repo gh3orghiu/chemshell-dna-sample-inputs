@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#obabel reac.pdb -O reac_obabel.pdb >/dev/null
+# This script will convert an .xyz file to .pdb using obabel.
+# Follow up with the respective save_???_pdb_prmtop_inpcrd.py to create the relevant AMBER files
 
-#sed -i 's/HETATM/ATOM  /g' reac_obabel.pdb
 direc=$PWD
 
 if [ -z $1 ];then
