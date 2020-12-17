@@ -1,6 +1,6 @@
 # DNA QM/MM Example Using ChemShell
 
-This folder contains all the relevant files needed to the rate coefficients of proton transfer in a DNA base pair using ChemShell.</br>
+This folder contains all the relevant files needed to calculate the rate coefficients of proton transfer in a DNA base pair using ChemShell.</br>
 It may be advisable to add add the scripts directory to PATH using .bashrc so you do not need to copy each script into individual folders before executing them.</br>
 More information detailing how to use the scripts is given in the 'scripts' folder README.</br>
 
