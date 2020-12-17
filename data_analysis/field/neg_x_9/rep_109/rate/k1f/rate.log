@@ -1,0 +1,61 @@
+Initialising Tcl ChemShell 3.7.0 on 2 linux nodes
+load_amber_coords/=============================== Tstep:    0.0 Ttot:    0.0 ==
+...load_amber_coords/============================ Tstep:    1.7 Ttot:    1.7 ==
+...load_amber_coords/dl-find/==================== Tstep:    1.8 Ttot:    3.5 ==
+...dl-find/copy_object/========================== Tstep:    0.0 Ttot:    3.5 ==
+...dl-find/get_number_of_atoms/================== Tstep:    0.0 Ttot:    3.6 ==
+...dl-find/set_matrix_size/====================== Tstep:    0.0 Ttot:    3.6 ==
+...dl-find/set_matrix_size/====================== Tstep:    0.0 Ttot:    3.6 ==
+...dl-find/none.init/============================ Tstep:    0.0 Ttot:    3.6 ==
+...get_number_of_atoms/========================== Tstep:    0.0 Ttot:    3.6 ==
+...get_number_of_shells/========================= Tstep:    0.0 Ttot:    3.6 ==
+
+***********************************************************************
+**                                                                   **
+**                       ---------------------                       **
+**                              DL-FIND                              **
+**                       Geometry Optimisation                       **
+**                       ---------------------                       **
+**                                                                   **
+**                 J. Kaestner, J.M. Carr, T.W. Keal,                **
+**                W. Thiel, A. Wander and P. Sherwood                **
+**                                                                   **
+**              J. Phys. Chem. A, 2009, 113 (43), 11856.             **
+**                                                                   **
+**   Please include this reference in published work using DL-FIND.  **
+**                                                                   **
+**               Copyright:  STFC Daresbury Laboratory               **
+**                           Revision: Unversioned directory         **
+**                                                                   **
+***********************************************************************
+
+ Calculating the reaction rate based on harmonic transition state theory
+ Number of zero modes in RS and TS:    0    0
+                     Reactant        TS
+ Number of atoms         9503      9503
+ Degrees of freedom        81        81
+                                      Hartree           kJ/mol            eV                K
+Potential energy Barrier             0.02634149       69.15957442        0.71678842     8317.97503225
+ZPE Correction                      -0.00542618      -14.24644617       -0.14765400    -1713.45160192
+Vibrational adiabatic barrier        0.02091531       54.91312825        0.56913442     6604.52343032
+Rotational contr. at start T         0.00000000        0.00000000        0.00000000        0.00000000
+Crossover Temperature               59.93384733 K
+ log_10 of rates in second^-1
+Change of log(rate) by the rotational partition function        0.00000000
+       1000/T           rate classical       quantised vib.      simpl. Wigner       Eckart
+      3.333333333333      0.776902140559      2.762875826531      2.790491375004      2.792955335913
+ 
+ #       1000/T           full wigner
+      3.333333333333      2.791772312576
+
+Timing report
+=============
+Module                                      CPU time            Wall clock time
+Total .................................     0.036 (100.00%)     0.174 (100.00%) seconds
+Energy and Gradient ...................     0.000 (  0.00%)     0.000 (  0.00%) seconds
+Step direction ........................     0.000 (  0.00%)     0.000 (  0.00%) seconds
+Coordinate transformation .............     0.000 (  0.00%)     0.000 (  0.00%) seconds
+Checkpoint file I/O ...................     0.000 (  0.00%)     0.000 (  0.00%) seconds
+XYZ-file I/O ..........................     0.000 (  0.00%)     0.000 (  0.00%) seconds
+exit 0
+ChemShell exiting code 0

@@ -1,0 +1,2063 @@
+Testing convergence  in cycle    1
+  Max grad  4.1803E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  3.8966E-04 Target: 2.0000E-04 converged?   no
+Testing convergence  in cycle    2
+    Energy  1.2562E-04 Target: 6.6667E-07 converged?   no
+  Max step  7.5806E-04 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.2092E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  3.2393E-04 Target: 2.0000E-04 converged?   no
+Testing convergence  in cycle    3
+    Energy  1.0364E-04 Target: 6.6667E-07 converged?   no
+  Max step  1.2125E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.2339E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  2.7954E-04 Target: 2.0000E-04 converged?   no
+Testing convergence  in cycle    4
+    Energy  8.6654E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.5040E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.2461E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  2.4872E-04 Target: 2.0000E-04 converged?   no
+Testing convergence  in cycle    5
+    Energy  7.9604E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.7197E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.2472E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  2.2660E-04 Target: 2.0000E-04 converged?   no
+Testing convergence  in cycle    6
+    Energy  6.9710E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.8814E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.2343E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  2.0961E-04 Target: 2.0000E-04 converged?   no
+Testing convergence  in cycle    7
+    Energy  6.4256E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.0580E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.1869E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.9618E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle    8
+    Energy  5.9587E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.1791E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.1372E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.8544E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle    9
+    Energy  5.6045E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.2776E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.0383E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.7622E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   10
+    Energy  5.3328E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.3003E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  3.9734E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.6798E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   11
+    Energy  5.1000E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.3529E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  3.8727E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.6059E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   12
+    Energy  4.8285E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.3604E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  3.7792E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.5407E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   13
+    Energy  4.6600E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.3553E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  3.6775E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.4777E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   14
+    Energy  4.4326E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.3379E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  3.5782E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.4230E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   15
+    Energy  4.2680E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.3105E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  3.4667E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.3692E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   16
+    Energy  4.0908E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.2692E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  3.3726E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.3201E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   17
+    Energy  3.9409E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.2289E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  3.2673E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.2735E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   18
+    Energy  3.7771E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.1922E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  3.1639E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.2297E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   19
+    Energy  3.6688E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.1522E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  3.0688E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.1854E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   20
+    Energy  3.4991E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.0999E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.9676E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.1471E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   21
+    Energy  3.4016E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.0587E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.8704E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.1065E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   22
+    Energy  3.2593E-05 Target: 6.6667E-07 converged?   no
+  Max step  2.0006E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.7825E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.0707E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   23
+    Energy  3.1713E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.9670E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.6879E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  1.0332E-04 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   24
+    Energy  3.0355E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.9155E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.5970E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  9.9991E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   25
+    Energy  2.9514E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.8551E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.5145E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  9.6569E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   26
+    Energy  2.8233E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.8082E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.4249E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  9.3537E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   27
+    Energy  2.7607E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.7727E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.3453E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  9.0261E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   28
+    Energy  2.6455E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.7156E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.2516E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  8.7306E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   29
+    Energy  2.4851E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.6751E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.1840E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  8.4296E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   30
+    Energy  2.3612E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.6326E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.1161E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  8.1727E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   31
+    Energy  2.4549E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.6213E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.0293E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  7.8909E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   32
+    Energy  2.3082E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.5343E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.9665E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  7.6609E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   33
+    Energy  2.2746E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.5157E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.8917E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  7.3974E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   34
+    Energy  2.1750E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.4620E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.8194E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  7.1794E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   35
+    Energy  2.1371E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.4295E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.7582E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  6.9311E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   36
+    Energy  2.0431E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.3789E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.6813E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  6.7421E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   37
+    Energy  2.0018E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.3507E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.6183E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  6.5062E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   38
+    Energy  1.9344E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.2912E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.5667E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  6.3253E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   39
+    Energy  1.8892E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.2856E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.5010E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  6.1067E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   40
+    Energy  1.8064E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.2169E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.4494E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  5.9586E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   41
+    Energy  1.7806E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.2117E-03 Target: 1.2000E-03 converged?   no component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.3955E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  5.7503E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   42
+    Energy  1.7104E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.1593E-03 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.3288E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  5.6469E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   43
+    Energy  1.6766E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.1512E-03 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.2753E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  5.4497E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   44
+    Energy  1.6099E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.0553E-03 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.2343E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  5.3775E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   45
+    Energy  1.5885E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.0820E-03 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.1820E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  5.1942E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   46
+    Energy  1.5118E-05 Target: 6.6667E-07 converged?   no
+  Max step  9.9459E-04 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.1320E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  5.1285E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   47
+    Energy  1.5094E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.0011E-03 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.0852E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.9552E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   48
+    Energy  1.4366E-05 Target: 6.6667E-07 converged?   no
+  Max step  9.3433E-04 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.0470E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.9093E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   49
+    Energy  1.4157E-05 Target: 6.6667E-07 converged?   no
+  Max step  9.4931E-04 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  1.0005E-03 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.7552E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   50
+    Energy  1.3814E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.6044E-04 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  9.7718E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.7426E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   51
+    Energy  1.3375E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.9645E-04 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  9.3398E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.5975E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   52
+    Energy  1.3022E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.2070E-04 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  8.7182E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.6252E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   53
+    Energy  1.2700E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.3337E-04 Target: 1.2000E-03 converged?  yes component  1099
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  8.3372E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.4888E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   54
+    Energy  1.2381E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.1541E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.9802E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.5095E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   55
+    Energy  1.2162E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.0802E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.5841E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.3874E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   56
+    Energy  1.1697E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.1404E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.3246E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.4246E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   57
+    Energy  1.1677E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.1825E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.9798E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.3080E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   58
+    Energy  1.1279E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.3296E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.5071E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.2955E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   59
+    Energy  1.1025E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.3060E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1961E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.1844E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   60
+    Energy  1.0802E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.2519E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9581E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.2172E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   61
+    Energy  1.0461E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.4025E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6194E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.1156E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   62
+    Energy  1.0244E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.3803E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4569E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.1484E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   63
+    Energy  1.0093E-05 Target: 6.6667E-07 converged?   no
+  Max step  8.4992E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1819E-04 Target: 3.0000E-04 converged?   no component  1099
+  RMS grad  4.0567E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   64
+    Energy  9.7209E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.6148E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1732E-04 Target: 3.0000E-04 converged?   no component   913
+  RMS grad  4.1120E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   65
+    Energy  9.6268E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.5750E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1015E-04 Target: 3.0000E-04 converged?   no component   913
+  RMS grad  4.0225E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   66
+    Energy  9.6042E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.7796E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.4890E-04 Target: 3.0000E-04 converged?   no component   892
+  RMS grad  4.0094E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   67
+    Energy  9.0125E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.6534E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.4235E-04 Target: 3.0000E-04 converged?   no component   892
+  RMS grad  3.9212E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   68
+    Energy  9.3943E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.7941E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5620E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  3.9054E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   69
+    Energy  8.5104E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.7372E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.9213E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  3.8037E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   70
+    Energy  9.1553E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.7885E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0665E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  3.7986E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   71
+    Energy  8.2582E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.8241E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7902E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  3.7248E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   72
+    Energy  8.5873E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.7834E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0252E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  3.7097E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   73
+    Energy  8.1298E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.9030E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9354E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  3.6310E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   74
+    Energy  8.0674E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.8472E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5381E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.6630E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   75
+    Energy  7.8553E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.9341E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4949E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.5986E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   76
+    Energy  7.6883E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.1546E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3085E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.6445E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   77
+    Energy  7.5684E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.9861E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2402E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.5741E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   78
+    Energy  7.5461E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.1446E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2099E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.5919E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   79
+    Energy  7.1400E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.0581E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0624E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.5025E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   80
+    Energy  7.4484E-06 Target: 6.6667E-07 converged?   no
+  Max step  8.9987E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3907E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.5058E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   81
+    Energy  6.9014E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.1294E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2347E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.4469E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   82
+    Energy  7.0936E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.0616E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7744E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.5039E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   83
+    Energy  6.7121E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.1582E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6692E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.4319E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   84
+    Energy  6.8308E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.2334E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1369E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.4392E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   85
+    Energy  6.4617E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.1929E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1126E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.3737E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   86
+    Energy  6.6746E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.3398E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5294E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.3864E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   87
+    Energy  6.1694E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.2361E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3435E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.3043E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   88
+    Energy  6.5483E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.2686E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4589E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2954E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   89
+    Energy  5.9704E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.2932E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3519E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2377E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   90
+    Energy  6.2826E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.2299E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6648E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.2718E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   91
+    Energy  5.8806E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.3323E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5725E-04 Target: 3.0000E-04 converged?   no component  1092
+  RMS grad  3.2119E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   92
+    Energy  5.9617E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.2697E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3112E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2968E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   93
+    Energy  5.7031E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.3526E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1060E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2248E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   94
+    Energy  5.8334E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.3633E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9345E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2740E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   95
+    Energy  5.4961E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.3765E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7897E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2057E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   96
+    Energy  5.6643E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4441E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.8473E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2879E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   97
+    Energy  5.3112E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4012E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6901E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2095E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   98
+    Energy  5.5096E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.3965E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6566E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2347E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle   99
+    Energy  5.1815E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4503E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5819E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.1791E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  100
+    Energy  5.3100E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.2200E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6002E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2017E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  101
+    Energy  5.0936E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5046E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4851E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.1433E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  102
+    Energy  5.0529E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.1222E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5027E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2528E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  103
+    Energy  4.9478E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4898E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3783E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.1939E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  104
+    Energy  4.9391E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5441E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9307E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.2995E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  105
+    Energy  9.3149E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4805E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.2193E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  3.2335E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  106
+    Energy  5.0289E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4924E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1620E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  3.2342E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  107
+    Energy  4.6683E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5545E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0224E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  3.2021E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  108
+    Energy  4.8455E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4961E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.8511E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  3.1511E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  109
+    Energy  4.6471E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.8434E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3399E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.1065E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  110
+    Energy  4.5202E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5063E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1465E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.0339E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  111
+    Energy  4.6756E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5710E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5230E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  3.0068E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  112
+    Energy  4.3294E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5393E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2403E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.9323E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  113
+    Energy  4.4805E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4676E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6446E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.9695E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  114
+    Energy  4.2372E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5764E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4543E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.8967E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  115
+    Energy  4.3059E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4651E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4806E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.9461E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  116
+    Energy  4.1653E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5563E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4246E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.8787E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  117
+    Energy  4.1371E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5996E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1463E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.9448E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  118
+    Energy  4.0702E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5332E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0760E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.8888E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  119
+    Energy  4.0402E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.7897E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2390E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.9215E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  120
+    Energy  3.9210E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5322E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0897E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.8685E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  121
+    Energy  3.9432E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.8075E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5241E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.9116E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  122
+    Energy  3.7826E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5508E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3949E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.8530E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  123
+    Energy  3.9013E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4595E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3940E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8653E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  124
+    Energy  3.6603E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5692E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2646E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8193E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  125
+    Energy  3.7731E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5381E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5806E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.8567E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  126
+    Energy  3.5948E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5516E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4948E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.8065E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  127
+    Energy  3.6194E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6743E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5039E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.9081E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  128
+    Energy  3.5061E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5449E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3720E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8491E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  129
+    Energy  3.5576E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6384E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4966E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.9305E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  130
+    Energy  3.4238E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5418E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3875E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8732E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  131
+    Energy  3.4860E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6123E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5930E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.9382E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  132
+    Energy  3.3385E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5594E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4822E-04 Target: 3.0000E-04 converged?   no component  1089
+  RMS grad  2.8855E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  133
+    Energy  3.3836E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4273E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5573E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.9374E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  134
+    Energy  3.2741E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5548E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4636E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8918E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  135
+    Energy  3.2695E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5691E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5968E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.9812E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  136
+    Energy  3.1712E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5383E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4352E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.9134E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  137
+    Energy  3.2869E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6340E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6210E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.9373E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  138
+    Energy  3.0893E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5247E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5107E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8951E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  139
+    Energy  3.1876E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6221E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7444E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.9294E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  140
+    Energy  3.0426E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5329E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6212E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8809E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  141
+    Energy  3.0896E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5131E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.8600E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.9201E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  142
+    Energy  2.9777E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5416E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7290E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8658E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  143
+    Energy  3.0289E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4048E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9125E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.9059E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  144
+    Energy  2.8825E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5382E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.8118E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8582E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  145
+    Energy  2.9797E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4937E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7811E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8751E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  146
+    Energy  2.8245E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5159E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6817E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8248E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  147
+    Energy  2.8844E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6618E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9232E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.9011E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  148
+    Energy  2.7590E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5060E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7944E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8471E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  149
+    Energy  2.8357E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5336E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0045E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8900E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  150
+    Energy  2.6996E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5176E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.8877E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8382E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  151
+    Energy  2.7865E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4171E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9663E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8633E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  152
+    Energy  2.6413E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5191E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.8722E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8214E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  153
+    Energy  2.7329E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4260E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0785E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8580E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  154
+    Energy  2.5888E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5081E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9614E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8056E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  155
+    Energy  2.6393E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4412E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.2298E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8817E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  156
+    Energy  2.5480E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4939E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1172E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8320E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  157
+    Energy  2.5806E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5138E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1351E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8618E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  158
+    Energy  2.5004E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4805E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0676E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.8234E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  159
+    Energy  2.5722E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5889E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0376E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.8421E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  160
+    Energy  2.4393E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4770E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9022E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.7856E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  161
+    Energy  2.5370E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4531E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1844E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.8079E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  162
+    Energy  2.3847E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4949E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0585E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.7544E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  163
+    Energy  2.4820E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.3842E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0485E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.7714E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  164
+    Energy  2.3487E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4978E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9421E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.7243E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  165
+    Energy  2.4189E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.3541E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0816E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.7456E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  166
+    Energy  2.3084E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4943E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9582E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.7026E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  167
+    Energy  2.3530E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.3670E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.3034E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.7275E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  168
+    Energy  2.2690E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4690E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.2069E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.6908E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  169
+    Energy  2.3120E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6470E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0200E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.6967E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  170
+    Energy  2.2452E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4591E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9762E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.6630E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  171
+    Energy  2.2627E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6188E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7937E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.7165E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  172
+    Energy  2.2000E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4639E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6644E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.6647E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  173
+    Energy  2.2129E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4445E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.8493E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.7045E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  174
+    Energy  2.1385E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4707E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7260E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.6494E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  175
+    Energy  2.1983E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4351E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1194E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.6779E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  176
+    Energy  2.1017E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4616E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9488E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.6281E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  177
+    Energy  2.1674E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4690E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9465E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.6461E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  178
+    Energy  2.0929E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.4743E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9113E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.6120E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  179
+    Energy  2.1300E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5432E-04 Target: 1.2000E-03 converged?  yes component  1807
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6856E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.6124E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  180
+    Energy  2.0812E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5176E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6303E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.5837E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  181
+    Energy  2.0960E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6170E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6237E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.6278E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  182
+    Energy  2.0148E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5584E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4702E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.5566E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  183
+    Energy  2.0431E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.5618E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7350E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.6083E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  184
+    Energy  1.9855E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6075E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5702E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.5541E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  185
+    Energy  2.0176E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6215E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.5261E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.5793E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  186
+    Energy  1.9987E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6577E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6120E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.5286E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  187
+    Energy  1.9982E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.6690E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4632E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.5221E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  188
+    Energy  1.9985E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.7091E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3688E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.4712E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  189
+    Energy  1.9842E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.7062E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3877E-04 Target: 3.0000E-04 converged?   no component  1087
+  RMS grad  2.4502E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  190
+    Energy  1.9834E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.7743E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0910E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.4313E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  191
+    Energy  1.9583E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.7416E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.9851E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.3851E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  192
+    Energy  1.9359E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.8020E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.9097E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.3806E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  193
+    Energy  1.9168E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.7940E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.8208E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.3322E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  194
+    Energy  1.9023E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.8203E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.7920E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.3456E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  195
+    Energy  1.8748E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.8292E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.6777E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.2982E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  196
+    Energy  1.8625E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.8464E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.7831E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.3095E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  197
+    Energy  1.8435E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.8626E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.6867E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.2756E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  198
+    Energy  1.8265E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.8982E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.8082E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.3115E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  199
+    Energy  1.8064E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.8942E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.7137E-04 Target: 3.0000E-04 converged?   no component  1093
+  RMS grad  2.2730E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  200
+    Energy  1.7979E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.9158E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.8231E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3108E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  201
+    Energy  1.7703E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.9300E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.7481E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2704E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  202
+    Energy  1.7550E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.9387E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.8588E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3245E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  203
+    Energy  1.7455E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.9611E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.7600E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2929E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  204
+    Energy  1.7530E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0016E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1444E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3306E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  205
+    Energy  1.7261E-06 Target: 6.6667E-07 converged?   no
+  Max step  9.9953E-04 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0657E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2959E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  206
+    Energy  1.7456E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0027E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1256E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3333E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  207
+    Energy  1.7021E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0031E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0556E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3025E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  208
+    Energy  1.7166E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0078E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0235E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3512E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  209
+    Energy  1.6825E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0062E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.9610E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3156E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  210
+    Energy  1.7021E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0108E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0741E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3609E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  211
+    Energy  1.6739E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0107E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.9351E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3205E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  212
+    Energy  1.6651E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0112E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2592E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3588E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  213
+    Energy  1.6578E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0134E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1965E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3296E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  214
+    Energy  1.6686E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0185E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1062E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3659E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  215
+    Energy  1.6348E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0164E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0319E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3329E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  216
+    Energy  1.6677E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0192E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0952E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3649E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  217
+    Energy  1.6063E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0194E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0083E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3187E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  218
+    Energy  1.6410E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0210E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0330E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3643E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  219
+    Energy  1.5976E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0225E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.9411E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3291E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  220
+    Energy  1.6123E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0245E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1274E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3575E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  221
+    Energy  1.5953E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0251E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0585E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3335E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  222
+    Energy  1.6030E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0282E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2784E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3854E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  223
+    Energy  1.5789E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0278E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1663E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3424E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  224
+    Energy  1.5924E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0285E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2811E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3758E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  225
+    Energy  1.5744E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0306E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2364E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3421E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  226
+    Energy  1.5753E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0323E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1995E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3784E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  227
+    Energy  1.5734E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0329E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1399E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3473E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  228
+    Energy  1.5774E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0348E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1773E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3527E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  229
+    Energy  1.5571E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0349E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1055E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3253E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  230
+    Energy  1.5539E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0379E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2918E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3564E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  231
+    Energy  1.5406E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0369E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2251E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3272E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  232
+    Energy  1.5423E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0409E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2361E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3557E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  233
+    Energy  1.5314E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0394E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1797E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3286E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  234
+    Energy  1.5117E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0397E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2849E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3668E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  235
+    Energy  1.5209E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0412E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2308E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3451E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  236
+    Energy  1.5421E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0445E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3430E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3964E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  237
+    Energy  1.4962E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0431E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2380E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3513E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  238
+    Energy  1.5126E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0445E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3435E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3765E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  239
+    Energy  1.4838E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0452E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2643E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3475E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  240
+    Energy  1.5124E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0459E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3221E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3674E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  241
+    Energy  1.4910E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0477E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2620E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3397E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  242
+    Energy  1.5105E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0478E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2325E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3419E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  243
+    Energy  1.4891E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0489E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1961E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3186E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  244
+    Energy  1.5030E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0511E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0819E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3123E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  245
+    Energy  1.4711E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0503E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0254E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2861E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  246
+    Energy  1.5077E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0519E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0129E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2630E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  247
+    Energy  1.4527E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0520E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  4.9361E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2361E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  248
+    Energy  1.4764E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0545E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0968E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2366E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  249
+    Energy  1.4467E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0535E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0462E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2153E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  250
+    Energy  1.4535E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0572E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1303E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2485E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  251
+    Energy  1.4263E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0553E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0371E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2126E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  252
+    Energy  1.4243E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0542E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1944E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2548E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  253
+    Energy  1.4082E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0566E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1408E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2269E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  254
+    Energy  1.4235E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0583E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.1561E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2719E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  255
+    Energy  1.3981E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0580E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.0791E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2436E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  256
+    Energy  1.4124E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0587E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2710E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2743E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  257
+    Energy  1.3979E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0595E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2322E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2576E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  258
+    Energy  1.3937E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0608E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3167E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3098E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  259
+    Energy  1.3906E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0608E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.2459E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.2832E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  260
+    Energy  1.3777E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0620E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3985E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.3364E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  261
+    Energy  1.3709E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0621E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3233E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.3032E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  262
+    Energy  1.3813E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0624E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3377E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.3481E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  263
+    Energy  1.3645E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0636E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3062E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.3258E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  264
+    Energy  1.3790E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0646E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.4255E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3586E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  265
+    Energy  1.3666E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0645E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.3838E-04 Target: 3.0000E-04 converged?   no component  1095
+  RMS grad  2.3414E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  266
+    Energy  1.3662E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0670E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7328E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.3968E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  267
+    Energy  1.3541E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0657E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.6305E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.3655E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  268
+    Energy  1.3591E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0656E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.8442E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.4037E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  269
+    Energy  1.3419E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0669E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7865E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.3781E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  270
+    Energy  1.3480E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0672E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.8828E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.4196E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  271
+    Energy  1.3354E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0677E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.8346E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.3988E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  272
+    Energy  1.3542E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0705E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.9581E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.4224E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  273
+    Energy  1.3292E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0688E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.8953E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.4020E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  274
+    Energy  1.3323E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0697E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.2511E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.4604E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  275
+    Energy  1.3188E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0698E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1909E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.4350E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  276
+    Energy  1.3288E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0701E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1270E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.4674E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  277
+    Energy  1.3165E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0708E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1032E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.4484E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  278
+    Energy  1.3150E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0722E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0918E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.4943E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  279
+    Energy  1.3140E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0718E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.0492E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.4755E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  280
+    Energy  1.3163E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0716E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.2232E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.5174E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  281
+    Energy  1.3001E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0724E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1318E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.4874E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  282
+    Energy  1.3183E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0739E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.2262E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.5268E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  283
+    Energy  1.2983E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0736E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1807E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.5029E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  284
+    Energy  1.3089E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0740E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.2242E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.5357E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  285
+    Energy  1.3018E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0742E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.1871E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.5180E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  286
+    Energy  1.2991E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0749E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.2705E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.5528E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  287
+    Energy  1.3008E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0750E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.2249E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.5365E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  288
+    Energy  1.2761E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0739E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.4659E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6004E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  289
+    Energy  1.2888E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0754E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.4105E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.5768E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  290
+    Energy  1.2993E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0763E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.3125E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.5988E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  291
+    Energy  1.2805E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0762E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.2733E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.5810E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  292
+    Energy  1.3007E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0766E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.5005E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6143E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  293
+    Energy  1.2781E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0768E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.4307E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.5966E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  294
+    Energy  1.2995E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0764E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.8674E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6314E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  295
+    Energy  1.2704E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0772E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.8029E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6094E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  296
+    Energy  1.2886E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0776E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.8747E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6321E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  297
+    Energy  1.2665E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0778E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.8391E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6147E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  298
+    Energy  1.2781E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0790E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.7905E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6522E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  299
+    Energy  1.2572E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0783E-03 Target: 1.2000E-03 converged?  yes component  1809
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.7384E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6257E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  300
+    Energy  1.2819E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0793E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.6331E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6490E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  301
+    Energy  1.2564E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0806E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.5972E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6348E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  302
+    Energy  1.2764E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0840E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.8491E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6733E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  303
+    Energy  1.2570E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0832E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  6.7902E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6560E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  304
+    Energy  1.2704E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0877E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.1354E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6796E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  305
+    Energy  1.2494E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0860E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.0650E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6606E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  306
+    Energy  1.2558E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0880E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.3134E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.7090E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  307
+    Energy  1.2424E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0888E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.2766E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6885E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  308
+    Energy  1.2658E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0910E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.1518E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.7092E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  309
+    Energy  1.2447E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0919E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.1188E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.6961E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  310
+    Energy  1.2447E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0955E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.3881E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.7511E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  311
+    Energy  1.2417E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0944E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.3159E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.7303E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  312
+    Energy  1.2449E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0965E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.6070E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.7723E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  313
+    Energy  1.2393E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0976E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.5509E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.7539E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  314
+    Energy  1.2504E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.0988E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.5773E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.7858E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  315
+    Energy  1.2383E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1001E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.5502E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.7713E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  316
+    Energy  1.2525E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1035E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.5094E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.8014E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  317
+    Energy  1.2369E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1024E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.4615E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.7831E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  318
+    Energy  1.2384E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1057E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.6699E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.8339E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  319
+    Energy  1.2372E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1054E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.5965E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.8162E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  320
+    Energy  1.2362E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1064E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.8691E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.8536E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  321
+    Energy  1.2340E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1077E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.8268E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.8379E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  322
+    Energy  1.2534E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1108E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.8339E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.8622E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  323
+    Energy  1.2289E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1102E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.7853E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.8432E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  324
+    Energy  1.2453E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1117E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.8891E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.8749E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  325
+    Energy  1.2275E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1125E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.8311E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.8561E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  326
+    Energy  1.2262E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1135E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  8.0290E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.9014E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  327
+    Energy  1.2269E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1149E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.9761E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.8848E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  328
+    Energy  1.2390E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1161E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  8.0037E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.9107E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  329
+    Energy  1.2289E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1170E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.9749E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.8974E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  330
+    Energy  1.2350E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1194E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.9546E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.9365E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  331
+    Energy  1.2267E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1191E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.9170E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.9198E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  332
+    Energy  1.2357E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1216E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.9236E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.9478E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  333
+    Energy  1.2267E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1216E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.8674E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.9319E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  334
+    Energy  1.2161E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1217E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  8.0855E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.9817E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  335
+    Energy  1.2205E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1235E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  8.0279E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.9607E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  336
+    Energy  1.2354E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1242E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  8.0291E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.9832E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  337
+    Energy  1.2209E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1256E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  7.9949E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.9678E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  338
+    Energy  1.2297E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1267E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  8.0248E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  3.0041E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  338
+    Energy  1.2297E-06 Target: 6.6667E-07 converged?   no
+  Max step  1.1267E-03 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  7.0661E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  8.0248E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  3.0041E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  354
+    Energy  4.7188E-05 Target: 6.6667E-07 converged?   no
+  Max step  1.7202E-08 Target: 1.2000E-03 converged?  yes component   158
+  RMS step  1.0782E-09 Target: 8.0000E-04 converged?  yes
+  Max grad  7.8795E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  2.9333E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  356
+    Energy  8.8248E-07 Target: 6.6667E-07 converged?   no
+  Max step  9.4907E-04 Target: 1.2000E-03 converged?  yes component   252
+  RMS step  3.5331E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  5.7866E-04 Target: 3.0000E-04 converged?   no component   252
+  RMS grad  1.7158E-05 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  357
+    Energy  1.4949E-06 Target: 6.6667E-07 converged?   no
+  Max step  3.3168E-04 Target: 1.2000E-03 converged?  yes component   252
+  RMS step  1.0303E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.0307E-04 Target: 3.0000E-04 converged?  yes component  1084
+  RMS grad  8.5964E-06 Target: 2.0000E-04 converged?  yes
+Testing convergence  in cycle  358
+    Energy  1.7508E-07 Target: 6.6667E-07 converged?  yes
+  Max step  3.7023E-04 Target: 1.2000E-03 converged?  yes component  1116
+  RMS step  1.5516E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.2757E-04 Target: 3.0000E-04 converged?  yes component   252
+  RMS grad  9.1587E-06 Target: 2.0000E-04 converged?  yes
+ Optimisation converged
+ Final converged energy:    -977.219745405506
+Testing convergence  in cycle  358
+    Energy  1.7508E-07 Target: 6.6667E-07 converged?  yes
+  Max step  3.7023E-04 Target: 1.2000E-03 converged?  yes component  1116
+  RMS step  1.5516E-05 Target: 8.0000E-04 converged?  yes
+  Max grad  2.2757E-04 Target: 3.0000E-04 converged?  yes component   252
+  RMS grad  9.1587E-06 Target: 2.0000E-04 converged?  yes
